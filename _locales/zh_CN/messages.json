@@ -1,0 +1,111 @@
+{
+	"extension_description": {
+		"message": "增加了SteamDB链接、Steam商店和社区的新功能。查看游戏价格史低和统计数据。"
+	},
+
+	"steamdb_options": {
+		"message": "SteamDB选项"
+	},
+	"steamstatus": {
+		"message": "检查steamstat.us"
+	},
+	"steamstatus_downtime": {
+		"message": "Steam暂时不可访问"
+	},
+
+	"view_on_steamdb": {
+		"message": "在SteamDB查看"
+	},
+	"view_on_pcgamingwiki": {
+		"message": "在PCGamingWiki查看"
+	},
+	"view_your_achievements": {
+		"message": "查看你的成就"
+	},
+	"store_page": {
+		"message": "商店页面"
+	},
+	"error": {
+		"message": "错误"
+	},
+
+	"id_app": {
+		"message": "App $1"
+	},
+	"id_sub": {
+		"message": "Sub $1"
+	},
+	"id_bundle": {
+		"message": "Bundle $1"
+	},
+
+	"app_steamdb_rating": {
+		"message": "SteamDB排名:"
+	},
+	"app_depots_update": {
+		"message": "最后更新:"
+	},
+	"app_stats_online": {
+		"message": "在线统计"
+	},
+	"app_stats_online_now": {
+		"message": "当前在线:"
+	},
+	"app_stats_peak_today": {
+		"message": "今日峰值:"
+	},
+	"app_stats_alL_time_peak": {
+		"message": "历史峰值:"
+	},
+	"app_stats_followers": {
+		"message": "关注人数:"
+	},
+	"app_lowest_price_": {
+		"message": ""
+	},
+	"app_nothing_selected": {
+		"message": "未选择"
+	},
+
+	"explore_auto_discover": {
+		"message": "自动探索"
+	},
+	"explore_auto_discover_description": {
+		"message": "自动探索队列以获得事件卡."
+	},
+	"explore_generating": {
+		"message": "生成新的探索队列, Steam负载较高时可能会失败…"
+	},
+	"explore_exploring": {
+		"message": "探索队列中… $1 / $2"
+	},
+	"explore_failed_to_clear": {
+		"message": "清除队列项目失败: #$1. 稍后重试."
+	},
+	"explore_failed_to_generate": {
+		"message": "生成新队列失败, 5秒后重试…"
+	},
+	"explore_finished": {
+		"message": "队列已探索完毕."
+	},
+
+	"achievement_your_progress": {
+		"message": "成就进度: $1 / $2"
+	},
+	"hidden_achievement": {
+		"message": "隐藏成就: "
+	},
+	"hidden_achievement_hover": {
+		"message": "隐藏成就，鼠标放在上面就可以看到: "
+	},
+	"hidden_achievement_but_loaded": {
+		"message": " (但SteamDB扩展能够加载你的成就)"
+	},
+
+	"widget_view_app": {
+		"message": "在SteamDB查看 $1 app"
+	},
+	"widget_view_sub": {
+		"message": "在SteamDB查看 $1 sub"
+	}
+}
